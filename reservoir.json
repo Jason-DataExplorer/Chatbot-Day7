@@ -1,0 +1,310 @@
+{
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "url": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/111464/8f7847d9-4b5e-427c-83a5-cdf73a6a1401.jpg_1140x855.jpg",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "16:9"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "翡翠水庫",
+              "weight": "bold",
+              "size": "xl",
+              "margin": "none",
+              "align": "start",
+              "color": "#1d428b",
+              "decoration": "underline"
+            },
+            {
+              "type": "separator"
+            },
+            {
+              "type": "text",
+              "text": "點擊觀看相關資訊！",
+              "size": "sm",
+              "weight": "bold"
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "md",
+          "margin": "none",
+          "paddingTop": "md",
+          "paddingBottom": "none",
+          "paddingStart": "md",
+          "paddingEnd": "none"
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "message",
+                "label": "水庫資訊",
+                "text": "翡翠水庫"
+              },
+              "margin": "none",
+              "style": "secondary",
+              "color": "#D0D0D0",
+              "height": "sm"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "url": "https://static.accupass.com/eventintro/1907240956595964086130.jpg",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "16:9"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "石門水庫",
+              "weight": "bold",
+              "size": "xl",
+              "margin": "none",
+              "align": "start",
+              "color": "#1d428b",
+              "decoration": "underline"
+            },
+            {
+              "type": "separator"
+            },
+            {
+              "type": "text",
+              "text": "點擊觀看相關資訊！",
+              "size": "sm",
+              "weight": "bold"
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "md",
+          "margin": "none",
+          "paddingTop": "md",
+          "paddingBottom": "none",
+          "paddingStart": "md",
+          "paddingEnd": "none"
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "message",
+                "label": "水庫資訊",
+                "text": "石門水庫"
+              },
+              "margin": "none",
+              "style": "secondary",
+              "color": "#D0D0D0",
+              "height": "sm"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Ming_De_reservoir_Dam.jpg",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "16:9"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "明德水庫",
+              "weight": "bold",
+              "size": "xl",
+              "margin": "none",
+              "align": "start",
+              "color": "#1d428b",
+              "decoration": "underline"
+            },
+            {
+              "type": "separator"
+            },
+            {
+              "type": "text",
+              "text": "點擊觀看相關資訊！",
+              "size": "sm",
+              "weight": "bold"
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "md",
+          "margin": "none",
+          "paddingTop": "md",
+          "paddingBottom": "none",
+          "paddingStart": "md",
+          "paddingEnd": "none"
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "message",
+                "label": "水庫資訊",
+                "text": "明德水庫"
+              },
+              "margin": "none",
+              "style": "secondary",
+              "color": "#D0D0D0",
+              "height": "sm"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "url": "https://www.siraya-nsa.gov.tw/zh-tw/image/2966/1024x768",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "16:9"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "曾文水庫",
+              "weight": "bold",
+              "size": "xl",
+              "margin": "none",
+              "align": "start",
+              "color": "#1d428b",
+              "decoration": "underline"
+            },
+            {
+              "type": "separator"
+            },
+            {
+              "type": "text",
+              "text": "點擊觀看相關資訊！",
+              "size": "sm",
+              "weight": "bold"
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "md",
+          "margin": "none",
+          "paddingTop": "md",
+          "paddingBottom": "none",
+          "paddingStart": "md",
+          "paddingEnd": "none"
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "message",
+                "label": "水庫資訊",
+                "text": "曾文水庫"
+              },
+              "margin": "none",
+              "style": "secondary",
+              "color": "#D0D0D0",
+              "height": "sm"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "micro",
+        "hero": {
+          "type": "image",
+          "url": "https://www.dbnsa.gov.tw/att/pic/b_11003971.jpg",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "16:9"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "牡丹水庫",
+              "weight": "bold",
+              "size": "xl",
+              "margin": "none",
+              "align": "start",
+              "color": "#1d428b",
+              "decoration": "underline"
+            },
+            {
+              "type": "separator"
+            },
+            {
+              "type": "text",
+              "text": "點擊觀看相關資訊！",
+              "size": "sm",
+              "weight": "bold"
+            }
+          ],
+          "spacing": "sm",
+          "paddingAll": "md",
+          "margin": "none",
+          "paddingTop": "md",
+          "paddingBottom": "none",
+          "paddingStart": "md",
+          "paddingEnd": "none"
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "message",
+                "label": "水庫資訊",
+                "text": "牡丹水庫"
+              },
+              "margin": "none",
+              "style": "secondary",
+              "color": "#D0D0D0",
+              "height": "sm"
+            }
+          ]
+        }
+      }
+    ]
+  }
